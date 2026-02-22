@@ -13,5 +13,9 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/**
+Content/
 *.uasset
+*.fbx
+*.obj
+*.jpg
+*.png
